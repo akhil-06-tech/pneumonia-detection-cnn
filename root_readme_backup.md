@@ -43,13 +43,13 @@ Run the notebooks in sequential order (01 through 04) to explore data, train the
 # Pneumonia Detection Using Convolutional Neural Networks (CNN)
 
 ## Dataset Distribution
-![Class Distribution](outputs/class_distribution.png)
+![Class Distribution](class_distribution.png)
 
 ## Sample X-Ray Comparison
-![Sample X-Rays](outputs/sample_xrays.png)
+![Sample X-Rays](sample_xrays.png)
 
 ## Model Training Progress
-![Training Curves](outputs/training_curves.png)
+![Training Curves](training_curves.png)
 
 ## Evaluation Results (Confusion Matrix)
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
