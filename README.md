@@ -1,1 +1,0 @@
-# pneumonia-detection-cnn
